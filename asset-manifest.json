@@ -1,13 +1,19 @@
 {
   "files": {
-    "main.css": "/Todo-App/static/css/main.e6c13ad2.css",
-    "main.js": "/Todo-App/static/js/main.295de76f.js",
-    "index.html": "/Todo-App/index.html",
-    "main.e6c13ad2.css.map": "/Todo-App/static/css/main.e6c13ad2.css.map",
-    "main.295de76f.js.map": "/Todo-App/static/js/main.295de76f.js.map"
+    "main.css": "/Todo_with_pdf/static/css/main.e6c13ad2.css",
+    "main.js": "/Todo_with_pdf/static/js/main.bf284704.js",
+    "static/js/498.35ac09b4.chunk.js": "/Todo_with_pdf/static/js/498.35ac09b4.chunk.js",
+    "static/js/703.2085405d.chunk.js": "/Todo_with_pdf/static/js/703.2085405d.chunk.js",
+    "static/js/168.c0d4c26d.chunk.js": "/Todo_with_pdf/static/js/168.c0d4c26d.chunk.js",
+    "index.html": "/Todo_with_pdf/index.html",
+    "main.e6c13ad2.css.map": "/Todo_with_pdf/static/css/main.e6c13ad2.css.map",
+    "main.bf284704.js.map": "/Todo_with_pdf/static/js/main.bf284704.js.map",
+    "498.35ac09b4.chunk.js.map": "/Todo_with_pdf/static/js/498.35ac09b4.chunk.js.map",
+    "703.2085405d.chunk.js.map": "/Todo_with_pdf/static/js/703.2085405d.chunk.js.map",
+    "168.c0d4c26d.chunk.js.map": "/Todo_with_pdf/static/js/168.c0d4c26d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.295de76f.js"
+    "static/js/main.bf284704.js"
   ]
 }
